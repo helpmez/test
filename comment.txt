@@ -1,2 +1,2 @@
-fuction a(){
+fuction a(master){
 }
